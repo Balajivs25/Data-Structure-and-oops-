@@ -4,7 +4,7 @@ struct node
 {
     int data;
     struct node *next;
-    
+    //use python da , its easy
 };
 struct node *head=NULL,*tail=NULL;
 void insert_begin(int x)
